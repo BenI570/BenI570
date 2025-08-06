@@ -1,5 +1,8 @@
 # Benjamin Interlichia's Projects
 
+## Previous Projects
+- FPS Game ([Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)), did work on a team of 9 as a Godot developer 
+
 ## Future Projects
 - Print Hello World in Assembly
 - 100 Days of Go
